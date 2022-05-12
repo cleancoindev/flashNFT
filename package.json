@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/Bernardchoo/flashNFT#readme",
   "dependencies": {
-    "openzeppelin-solidity": "^3.1.0"
+    "openzeppelin-solidity": "^3.4.2"
   }
 }

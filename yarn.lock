@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-openzeppelin-solidity@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/openzeppelin-solidity/-/openzeppelin-solidity-3.1.0.tgz#bc43306bf59f90a3fa7d97c42209617360d51a74"
-  integrity sha512-+MatFtoqicq5Pc4zkICs8g8gUyULU5HvyBn+OJRoYBHr0Pm3F/9sav3ZgL9npWtRFAIxzM9ryjQ9kKLwt05Imw==
+openzeppelin-solidity@^3.4.2:
+  version "3.4.2"
+  resolved "https://registry.yarnpkg.com/openzeppelin-solidity/-/openzeppelin-solidity-3.4.2.tgz#ec9b3d701c459e6075691bbda642d54290e0c7ab"
+  integrity sha512-mpk74A6Bo+/ISfalUqtD8bAfINQgkGH2yInUFn/uBYz1pXbefwMTApjlnCYr+HpQpeOgO7nO8deJYrzBGDFDMA==
